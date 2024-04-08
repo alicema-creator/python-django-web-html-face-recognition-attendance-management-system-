@@ -13,7 +13,7 @@
 **依赖库：VTK**  
 
 ## 运行效果
-<img src="https://github.com/alicema-creator/python-django-web-html-face-recognition-attendance-management-system-/blob/main/screenshot/2.jpg" width="500"></a>
+<img src="https://github.com/alicema-creator/python-django-web-html-face-recognition-attendance-management-system-/blob/main/screenshot/2.png" width="500"></a>
 <img src="https://github.com/alicema-creator/python-django-web-html-face-recognition-attendance-management-system-/blob/main/screenshot/1.jpg" width="500"></a>
 
 
